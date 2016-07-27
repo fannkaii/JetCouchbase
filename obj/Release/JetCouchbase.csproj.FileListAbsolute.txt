@@ -1,0 +1,15 @@
+E:\【MyCode】\Couchbase.HelloCouchbase\JetCouchbase\bin\Release\JetCouchbase.dll.config
+E:\【MyCode】\Couchbase.HelloCouchbase\JetCouchbase\bin\Release\JetCouchbase.dll
+E:\【MyCode】\Couchbase.HelloCouchbase\JetCouchbase\bin\Release\JetCouchbase.pdb
+E:\【MyCode】\Couchbase.HelloCouchbase\JetCouchbase\bin\Release\Common.Logging.Core.dll
+E:\【MyCode】\Couchbase.HelloCouchbase\JetCouchbase\bin\Release\Common.Logging.dll
+E:\【MyCode】\Couchbase.HelloCouchbase\JetCouchbase\bin\Release\Couchbase.NetClient.dll
+E:\【MyCode】\Couchbase.HelloCouchbase\JetCouchbase\bin\Release\Newtonsoft.Json.dll
+E:\【MyCode】\Couchbase.HelloCouchbase\JetCouchbase\bin\Release\Common.Logging.pdb
+E:\【MyCode】\Couchbase.HelloCouchbase\JetCouchbase\bin\Release\Common.Logging.xml
+E:\【MyCode】\Couchbase.HelloCouchbase\JetCouchbase\bin\Release\Common.Logging.Core.pdb
+E:\【MyCode】\Couchbase.HelloCouchbase\JetCouchbase\bin\Release\Common.Logging.Core.xml
+E:\【MyCode】\Couchbase.HelloCouchbase\JetCouchbase\bin\Release\Couchbase.NetClient.xml
+E:\【MyCode】\Couchbase.HelloCouchbase\JetCouchbase\bin\Release\Newtonsoft.Json.xml
+E:\【MyCode】\Couchbase.HelloCouchbase\JetCouchbase\obj\Release\JetCouchbase.dll
+E:\【MyCode】\Couchbase.HelloCouchbase\JetCouchbase\obj\Release\JetCouchbase.pdb
